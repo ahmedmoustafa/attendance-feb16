@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Adham Zaher
 - Farida Amer
 - Karim Nashed
 - Christine Selwanes 
