@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Youssef Tarek
 - Abdullah Alfatah
 - Amina El Kaliouby
 - Layal Diab
