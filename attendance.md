@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Alaa Marzouk
 - Tarek Abdelghaffar
 - Gamila Rizk
 - Malika Khalil
