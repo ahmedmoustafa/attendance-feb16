@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Christine Selwanes 
 - yassin zohair 
 - Alaa Marzouk
 - Tarek Abdelghaffar
