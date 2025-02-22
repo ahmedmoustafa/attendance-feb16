@@ -1,6 +1,8 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Fedaa
+- Rofidah
 - Mennatallah Mabrouk
 - Youssef Tarek
 - Abdullah Alfatah
