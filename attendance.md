@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Rola El Reedy
 - Adham Zaher
 - Farida Amer
 - Karim Nashed
