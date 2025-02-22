@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Layal Diab
 - Ali Anwar
 - Rola El Reedy
 - Adham Zaher
