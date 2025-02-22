@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Amina El Kaliouby
 - Layal Diab
 - Ali Anwar
 - Rola El Reedy
