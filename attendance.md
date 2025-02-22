@@ -1,6 +1,7 @@
 # Today's Attendance
 
 - Ahmed Moustafa
+- Gamila Rizk
 - Malika Khalil
 - Kenzy Wagih
 - Mennatallah Mabrouk
@@ -8,4 +9,5 @@
 - Malak Ahmed
 - Ruqaya Mowafi
 - Emma Michael
+- Mostafa Elshimi
 - Mostafa Elshimi
